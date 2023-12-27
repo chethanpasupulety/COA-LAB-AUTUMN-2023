@@ -1,4 +1,4 @@
-/* Instructions According to Processor */
+/* Instructions According to the given RISC architecture*/
 
 ADDI  R1, R0, #100;	// arr[0]
 MOVE  R2, R0;      	// i=0
